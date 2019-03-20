@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "react-native-splash-screen@3.1.0",
+      "F:\\App2\\App"
+    ]
+  ],
+  "_from": "react-native-splash-screen@3.1.0",
+  "_id": "react-native-splash-screen@3.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ljb4PXEdrd7ScWfNw9xqqY7CIu4=",
+  "_location": "/react-native-splash-screen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-splash-screen@3.1.0",
+    "name": "react-native-splash-screen",
+    "escapedName": "react-native-splash-screen",
+    "rawSpec": "3.1.0",
+    "saveSpec": null,
+    "fetchSpec": "3.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-splash-screen/download/react-native-splash-screen-3.1.0.tgz",
+  "_spec": "3.1.0",
+  "_where": "F:\\App2\\App",
+  "author": {
+    "name": "crazycodeboy"
+  },
+  "bugs": {
+    "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
+  },
+  "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
+  "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-splash-screen",
+    "splash-screen",
+    "splashscreen",
+    "splash",
+    "launch-screen",
+    "launchscreen",
+    "android",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-splash-screen",
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.1.0"
+}
