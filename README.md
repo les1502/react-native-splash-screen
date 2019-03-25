@@ -12,7 +12,7 @@ A splash screen API for react-native which can programatically hide and show the
 
 ## Content
 
-- [Use Case](#use case)
+- [Use Case](#use-case)
 - [Installation](#installation)
 - [Examples](#examples)
 - [Getting started](#getting-started)
